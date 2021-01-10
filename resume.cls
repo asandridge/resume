@@ -57,7 +57,7 @@
 }
 
 \newcommand{\ContactInfoDigital}[2]{
-  {\faEnvelope} {#1}  | 
+  {\faEnvelope} {#1}
   {\faPhone} {#2} \\
 }
 
